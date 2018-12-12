@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/importer.dir/src/ItemNew.cpp.o  -o importer 

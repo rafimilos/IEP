@@ -1,0 +1,3 @@
+/home/rafiroxi/IEP/Laborator7/build/CMakeFiles/rebuild_cache.dir
+/home/rafiroxi/IEP/Laborator7/build/CMakeFiles/importer.dir
+/home/rafiroxi/IEP/Laborator7/build/CMakeFiles/edit_cache.dir
